@@ -11,4 +11,10 @@ serve it with a static server:
 * `npm install -g serve`
 * `serve -s build`
 
-![Image](chat_small.gif)
+
+
+![Demo1](chat_small.gif)
+
+The feed will get populated with the latest 10 available messages.
+
+![Demo2](chat_demo2.gif)
