@@ -4,6 +4,7 @@ Utilizes [Node.js RESTful API](https://github.com/antevis/chat_backend) + Socket
 
 usage:
 
+* `npm install`: Install required project packages
 * `npm start`: Runs the app in the development mode.
 
 serve it with a static server:
